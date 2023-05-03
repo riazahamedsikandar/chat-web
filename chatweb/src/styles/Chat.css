@@ -9,6 +9,9 @@
     overflow: hidden;
     border: 2px solid #3b5998;
   }
+  .body{
+    background-color: #264653;
+  }
   .header {
     background-color: #3b5998;
     color: white;
